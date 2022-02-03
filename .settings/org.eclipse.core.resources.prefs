@@ -1,10 +1,13 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding//src/OtoKadai01.java=MS932
 encoding//src/OtoKadai02.java=MS932
 encoding//src/OtoKadai03.java=MS932
 encoding//src/OtoKadai04.java=MS932
 encoding//src/OtoKadai05.java=MS932
 encoding//src/OtoKadai06.java=MS932
+=======
+>>>>>>> branch 'master' of https://github.com/jc21-200282/Otopika.git
 encoding//src/OtoSample01.java=MS932
 encoding//src/OtoSample02.java=MS932
 encoding/<project>=UTF-8
